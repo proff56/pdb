@@ -18,8 +18,7 @@
         }
     ],
     "require": {
-        "php": ">=7.2.5",
-         "proff56/pdb": "dev-master"
+        "php": ">=7.2.5"
     },
     "autoload": {
         "psr-4": {
