@@ -14,7 +14,7 @@
 🛠️ Paketi composer ile projenize dahil edin;
 
 ```bash
-composer require mlevent/pdb
+composer require proff56/pdb
 ```
 
 ### Örnek Kullanım
